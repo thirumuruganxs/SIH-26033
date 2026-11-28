@@ -19,7 +19,7 @@ The agricultural supply chain involves multiple intermediaries between farmers a
 The lack of direct connections between producers and buyers creates inefficiencies in agricultural distribution, leading to delays, additional expenses and potential wastage of produce.
 
 The proposed solution aims to develop a digital marketplace that:
-
+0
 - Connects farmers and Farmer Producer Organisations (FPOs) directly with consumers and bulk buyers.
 - Provides integrated logistics support for efficient collection and delivery of agricultural products.
 - Uses AI-based demand forecasting to predict market requirements and improve supply planning.
