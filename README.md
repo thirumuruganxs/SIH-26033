@@ -108,22 +108,7 @@ Price Transparency: A detailed price breakdown is displayed to farmers and buyer
 
 System Architecture
 
-flowchart TD
-    A[Farmers / FPOs] --> C[AgriConnect Platform]
-    B[Consumers / Bulk Buyers] --> C
-
-    C --> D[Demand Collection]
-    D --> E[AI Demand Forecasting]
-    E --> F[Supply and Demand Matching]
-
-    F --> G[Farmer Supply Pooling]
-    G --> H[Shared Collection Points]
-    H --> I[Route Optimization]
-    I --> J[Logistics Partners]
-    J --> K[Buyer Delivery]
-
-    C --> L[Transparent Pricing]
-    C --> M[Order and Payment Records]
+<img width="1536" height="1024" alt="AgriConnect Technical Approach Architecture" src="https://github.com/user-attachments/assets/1333fd8f-702f-4bc9-812a-9962d6f9045f" />
 
 Prototype Development
 
